@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/yaxsomo/aerosentinel-argus/assets/71334330/143f75be-1a29-449a-a178-e01ef7d16065" alt="aerosentinel logo">
+  <img src="https://github.com/yaxsomo/aerosentinel-icarus/assets/71334330/a51fc068-fe01-4960-b397-f21ddda334c4" alt="aerosentinel logo">
 </p>
 
 #
 
-Welcome to Aerosentinel Argus Navigation Module firmware repository. Configured & developed using STM32CubeIDE and written in C.
+Welcome to Aerosentinel Icarus Flight Module firmware repository. Configured & developed using STM32CubeIDE and written in C.
 
 ## Table of Contents
 1. [Introduction](#introduction)

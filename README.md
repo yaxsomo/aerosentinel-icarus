@@ -18,7 +18,7 @@ Welcome to Aerosentinel Icarus Flight Module firmware repository. Configured & d
 7. [License](#license)
 
 ## Introduction
-This firmware is designed to provide precise navigation and guidance capabilities for rocketry applications using the Aerosentinel Argus Navigation Module. It implements advanced algorithms and features to ensure optimal performance, safety, and reliability during launch, ascent, and recovery phases.
+This firmware is designed to manage and control the flight dynamics of rocketry applications using the Aerosentinel Icarus Flight Module. It implements advanced control algorithms and features to ensure optimal performance, stability, and safety during all flight phases.
 
 ## Getting Started
 
@@ -46,9 +46,9 @@ To make sure the build process has been successful, you can check the console fo
 
 
 ## Features
-- **Comprehensive Telemetry**: Provides real-time data on altitude, velocity, acceleration, positionning and environmental conditions.
-- **Autonomous Operation**: Automatically gathers sensors & GPS data, execute extended kalman filter fusion algorithms in cascade, and send the results via UART to the Flight Computer. 
-- **Reliability**: Built to withstand harsh temperatures, vibrations, and G-forces for robust performance.
+- **Advanced Flight Control**: Implements control algorithms to maintain optimal flight dynamics and stability.
+- **Telemetry Integration**: Provides real-time data on flight parameters to the ground station.
+- **Safety Mechanisms**: Includes safety features to handle anomalies during flight, ensuring robust performance.
 
 ## Contributing
 Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) when making contributions to this project.

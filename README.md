@@ -44,7 +44,6 @@ To make sure the build process has been successful, you can check the console fo
 <img width="542" alt="Build_Result_STM32CubeIDE" src="https://github.com/yaxsomo/Aerosentinel-Mach-10/assets/71334330/89327704-94d9-4f79-b6a8-58f2b967f4f4">
 
 
-
 ## Features
 - **Advanced Flight Control**: Implements control algorithms to maintain optimal flight dynamics and stability.
 - **Telemetry Integration**: Provides real-time data on flight parameters to the ground station.
